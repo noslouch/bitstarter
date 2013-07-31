@@ -1,0 +1,1 @@
+http://github.com/noslouch/bitstarter.git, http://damp-castle-9204.herokuapp.com
